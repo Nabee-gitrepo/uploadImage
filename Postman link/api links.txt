@@ -1,0 +1,3 @@
+http://localhost:5000/posts(Get all posts)
+http://localhost:5000/posts(Create a new post)
+http://localhost:5000/posts/63643347e55dd06be54cb10a(Delete a single post)
